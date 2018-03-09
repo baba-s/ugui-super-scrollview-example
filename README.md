@@ -1,8 +1,8 @@
-# uGUI Super ScrollView Example
+# UGUI Super ScrollView Example
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180309/20180309131028.png)
 
-「uGUI Super ScrollView Example」は  
+「UGUI Super ScrollView Example」は  
 「UGUI Super ScrollView」の使用例をまとめたサンプルプロジェクトです  
 
 # 開発環境
