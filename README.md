@@ -15,7 +15,7 @@
 そのため、Unity プロジェクトを実行したい場合は  
 Asset Store から「UGUI Super ScrollView」をインポートする必要があります  
 
-<iframe src="https://api.assetstore.unity3d.com/affiliate/embed/package/86572/widget-wide?aid=1100l37E9" style="width:600px; height:130px; border:0px;"></iframe>
+Asset Store：https://goo.gl/VMZWDY
 
 # 使用例
 
