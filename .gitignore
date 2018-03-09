@@ -4,6 +4,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+/Assets/SuperScrollView*
 
 # Visual Studio 2015 cache directory
 /.vs/
