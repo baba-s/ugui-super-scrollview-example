@@ -8,6 +8,7 @@
 # 開発環境
 
 - Unity 2017.3.0f3
+- UGUI Super ScrollView 2.2.3
 
 # 注意
 
