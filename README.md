@@ -15,7 +15,9 @@
 そのため、Unity プロジェクトを実行したい場合は  
 Asset Store から「UGUI Super ScrollView」をインポートする必要があります  
 
-Asset Store：https://goo.gl/VMZWDY
+# Asset Store
+
+https://goo.gl/VMZWDY
 
 # 使用例
 
