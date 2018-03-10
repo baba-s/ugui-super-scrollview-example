@@ -73,7 +73,6 @@ namespace Example_Banner
 			}
 			m_timer += Time.deltaTime;
 			if ( m_timer < m_interval ) return;
-			m_timer -= m_interval;
 			SetSnapIndex( 1 );
 		}
 
@@ -94,6 +93,7 @@ namespace Example_Banner
 
 		private void SetSnapIndex( int offset )
 		{
+			m_timer = 0;
 			int currentIndex = m_view.CurSnapNearestItemIndex;
 			int nextIndex = currentIndex + offset;
 			m_view.SetSnapTargetItemIndex( nextIndex );
