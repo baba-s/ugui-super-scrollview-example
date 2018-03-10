@@ -1,52 +1,51 @@
-[日本語の Readme はこちら](https://github.com/baba-s/ugui-super-scrollview-example/blob/master/README_JP.md)  
-
 # UGUI Super ScrollView Example
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180309/20180309131028.png)
 
-Sample project that summarizes usage examples of "UGUI Super ScrollView".  
+「UGUI Super ScrollView Example」は  
+「UGUI Super ScrollView」の使用例をまとめたサンプルプロジェクトです  
 
-# Version
+# 開発環境
 
 - Unity 2017.3.0f3
 - UGUI Super ScrollView 2.2.3
 
-# Warning
+# 注意
 
-This repository does not include "UGUI Super ScrollView".  
-So if you want to run the Unity project,  
-You need to import "UGUI Super ScrollView" from Asset Store.  
+このリポジトリには「UGUI Super ScrollView」は含まれていません  
+そのため、Unity プロジェクトを実行したい場合は  
+Asset Store から「UGUI Super ScrollView」をインポートする必要があります  
 
 # Asset Store
 
 https://goo.gl/VMZWDY
 
-# Example
+# 使用例
 
-## Draw only necessary items
+## 必要な要素のみ描画するスクロール
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180308/20180308213201.gif)
 
-## Snap
+## スナップするスクロール
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180308/20180308213745.gif)
 
-## Item height changes
+## 項目の高さが変化するスクロール
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180308/20180308220102.gif)
 
-## Set / add number of items, jump to item
+## 項目数の設定・追加、特定の項目へのジャンプ
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180309/20180309112201.gif)
 
-## Delete item
+## 項目の削除
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180309/20180309115103.gif)
 
-## Grid
+## 項目をグリッド状に並べるスクロール
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180309/20180309123707.gif)
 
-## Page view
+## ページビュー
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180309/20180309140407.gif)
