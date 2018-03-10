@@ -49,3 +49,7 @@ https://goo.gl/VMZWDY
 ## ページビュー
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180309/20180309140407.gif)
+
+## バナー
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180310/20180310180148.gif)
